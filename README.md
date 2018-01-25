@@ -1,3 +1,5 @@
 # SYT
 
-über http://localhost:8080/WebserviceRest/rest/register aufrufbar
+mvn tomcat7:run
+über http://localhost:9090/WebserviceRest/rest/register aufrufbar
+
